@@ -1,0 +1,9 @@
+Scrapy==1.5.1
+scrapy-splash
+scrapy-selenium
+scrapy-fake-useragent
+selenium
+uvloop
+aiomysql
+PyMySQL
+requests
