@@ -1,10 +1,10 @@
-#-*-coding: utf8--*
+# -*-coding: utf8--*
 
 from setuptools import setup
 
 setup(
-    name='app',
-    packages=['app'],
+    name='server',
+    packages=['server'],
     include_package_data=True,
     install_requires=[
         'flask',
