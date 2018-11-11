@@ -1,5 +1,5 @@
 {
-  "name": "view",
+  "name": "runscrapider page",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,7 +13,7 @@
   },
   "scripts": {
     "start": "react-app-rewired start",
-    "build": "react-app-rewired build && ..\\move_view_dist.py",
+    "build": "react-app-rewired build && python move_view_dist.py",
     "test": "react-app-rewired test",
     "eject": "react-scripts eject"
   },
